@@ -124,6 +124,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+env_recsys_start/
 env/
 venv/
 ENV/
